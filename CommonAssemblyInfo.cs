@@ -28,7 +28,7 @@ using System.Runtime.InteropServices;
 
 [assembly: AssemblyDelaySign(false)]
 [assembly: NeutralResourcesLanguage("en-US")]
-[assembly: RavenVersion(Build = "1", CommitHash = "ea8d8ab", Version = "3.5")]
+[assembly: RavenVersion(Build = "123", CommitHash = "a2f35c1", Version = "3.5")]
 
 [AttributeUsage(AttributeTargets.Assembly)]
 public class RavenVersionAttribute : Attribute
